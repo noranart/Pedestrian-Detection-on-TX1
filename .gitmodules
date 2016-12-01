@@ -1,0 +1,4 @@
+[submodule "torch-nnet-trainer"]
+	path = torch-nnet-trainer
+	url = https://github.com/jonathanasdf/torch-nnet-trainer.git
+	branch = dev
