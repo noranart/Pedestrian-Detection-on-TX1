@@ -30,9 +30,7 @@ The networks were trained by [torch-nnet-trainer](https://github.com/jonathanasd
 Please set up caltech10x dataset according to [Hosang](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/people-detection-pose-estimation-and-tracking/taking-a-deeper-look-at-pedestrians/).
 
 ###Testing on TX1
-Ideally, the dynamic library should work for TX1. However, if an issue occurs, please build [SquareChnnlFltrs](https://bitbucket.org/rodrigob/doppia) for region proposal and replace
-- 2014_eccvw_SquaresChnFtrs_trained_on_Caltech.proto.bin	
-- libmonocular_objects_detection.so	
+Ideally, the dynamic library should work for TX1. However, if an issue occurs, please build [SquareChnnlFltrs](https://bitbucket.org/rodrigob/doppia) for region proposal and replace "libmonocular_objects_detection.so".
 
 The input is a set of images from video (extract by convert.sh). Use "make forward" for building forward.cpp, and "make run --input($input) --output($output)" to forward the images.
 
