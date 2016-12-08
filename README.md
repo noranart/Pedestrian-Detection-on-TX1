@@ -44,10 +44,3 @@ If you found our model useful, please cite our paper and Knowledge Distillation 
       journal = {arXiv preprint, arXiv:1612.00478},
       year = {2016}
     }
-
-    @articles{liu2016ssd,
-      title = {Distilling the knowledge in a neural network},
-      author = {Hinton, Geoffrey and Vinyals, Oriol and Dean, Jeff},
-      journal = {arXiv preprint arXiv:1503.02531},
-      year = {2015}
-    }
