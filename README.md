@@ -40,7 +40,7 @@ If you found our model useful, please cite our paper:
 
     @articles{liu2016ssd,
       title = {In Teacher We Trust: Learning Compressed Models for Pedestrian Detection},
-      author = {Shen, J.,{Vesdapunt, N., Boddeti, V.~N., Kitani, K.~M. and Osterwood, C.},
+      author = {Shen, J., Vesdapunt, N., Boddeti, V.~N., Kitani, K.~M. and Osterwood, C.},
       journal = {arXiv preprint, arXiv:1612.00478},
       year = {2016}
     }
