@@ -27,7 +27,7 @@ Log-average miss rate on Caltech (lower is better)
 ##Installation
 ###Training
 The networks were trained by [torch-nnet-trainer](https://github.com/jonathanasdf/torch-nnet-trainer/tree/ffd5a933e731556ab9eff7e0d160848166c95a1a). 
-Please set up caltech10x according to [Hosang](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/people-detection-pose-estimation-and-tracking/taking-a-deeper-look-at-pedestrians/).
+Please set up caltech10x dataset according to [Hosang](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/people-detection-pose-estimation-and-tracking/taking-a-deeper-look-at-pedestrians/).
 
 ###Testing on TX1
 Please build [SquareChnnlFltrs](https://bitbucket.org/rodrigob/doppia) for region proposal and replace
