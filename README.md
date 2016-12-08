@@ -30,7 +30,7 @@ The networks were trained by [torch-nnet-trainer](https://github.com/jonathanasd
 Please set up caltech10x dataset according to [Hosang](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/people-detection-pose-estimation-and-tracking/taking-a-deeper-look-at-pedestrians/).
 
 ###Testing on TX1
-Please build [SquareChnnlFltrs](https://bitbucket.org/rodrigob/doppia) for region proposal and replace
+Ideally, the dynamic library should work for TX1. However, if an issue occurs, please build [SquareChnnlFltrs](https://bitbucket.org/rodrigob/doppia) for region proposal and replace
 - 2014_eccvw_SquaresChnFtrs_trained_on_Caltech.proto.bin	
 - libmonocular_objects_detection.so	
 
