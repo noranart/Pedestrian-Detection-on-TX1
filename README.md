@@ -38,7 +38,7 @@ The input is a set of images from video (extract by convert.sh). Use "make forwa
 ##Citing our model
 If you found our model useful, please cite our paper:
 
-    @articles{liu2016ssd,
+    @articles{ShenTrust2016,
       title = {In Teacher We Trust: Learning Compressed Models for Pedestrian Detection},
       author = {Shen, J., Vesdapunt, N., Boddeti, V.~N., Kitani, K.~M. and Osterwood, C.},
       journal = {arXiv preprint, arXiv:1612.00478},
